@@ -1,3 +1,5 @@
 början av min fil
 
 mitten av min fil
+
+Testar funktioner
