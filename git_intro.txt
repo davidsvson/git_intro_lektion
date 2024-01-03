@@ -4,3 +4,6 @@ mitten av min fil
 
 Testar funktioner i slutet av filen
 
+Testar ytterligare funktioner för framtida ändamål.
+
+Testar multifunktionalitet
